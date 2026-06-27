@@ -103,7 +103,7 @@ uvicorn app:app --reload
 The FastAPI service provides endpoints for grievance classification and sentiment prediction, enabling users to submit complaint text and receive automated analysis results.
 
 ### API
-![API](API/API.png)
+![API](https://github.com/ballapuramdeepthi/Ai-grivence-system/blob/main/API.png)
 
 📈 Outcomes
 
